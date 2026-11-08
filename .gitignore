@@ -1,0 +1,12 @@
+# Compiled class files
+*.class
+build/
+out/
+bin/
+
+# Gradle & Android Studio
+.gradle/
+local.properties
+.idea/
+*.iml
+.DS_Store
